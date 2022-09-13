@@ -90,3 +90,9 @@
     width: 100%;
   }
   }
+
+  @media (max-width: 640px) {
+    #detail-product-selected{
+      width: 100%;
+    }
+  }
